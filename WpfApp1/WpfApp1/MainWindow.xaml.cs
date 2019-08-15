@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-// testing changes
+//another changes
 namespace WpfApp1
 {
     /// <summary>
