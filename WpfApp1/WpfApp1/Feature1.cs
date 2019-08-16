@@ -8,10 +8,8 @@ namespace WpfApp1
 {
     class Feature1
     {
-        public int Sum()
+        public int Sum(int x1, int x2)
         {
-            int x1 = 12;
-            int x2 = 10;
             return x1 + x2;
         }
     }
