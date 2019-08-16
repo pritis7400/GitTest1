@@ -10,8 +10,8 @@ namespace WpfApp1
     {
         public int Sum()
         {
-            int x1 = 12;
-            int x2 = 10;
+            var x1 = 12;
+            var x2 = 10;
             return x1 + x2;
         }
     }
